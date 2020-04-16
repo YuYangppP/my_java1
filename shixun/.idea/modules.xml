@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/la/la.iml" filepath="$PROJECT_DIR$/la/la.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lay/lay.iml" filepath="$PROJECT_DIR$/lay/lay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liuyan/liuyan.iml" filepath="$PROJECT_DIR$/liuyan/liuyan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shixun.iml" filepath="$PROJECT_DIR$/shixun.iml" />
+    </modules>
+  </component>
+</project>

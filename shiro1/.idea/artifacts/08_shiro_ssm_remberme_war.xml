@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="08_shiro_ssm_remberme:war">
+    <output-path>$PROJECT_DIR$/08_shiro_ssm_remberme/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>08_shiro_ssm_remberme</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="06_shiro_ssm.war">
+      <element id="artifact" artifact-name="08_shiro_ssm_remberme:war exploded" />
+    </root>
+  </artifact>
+</component>

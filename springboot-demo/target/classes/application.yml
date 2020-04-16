@@ -1,0 +1,17 @@
+server:
+  port: 8080
+  servlet:
+    path: /
+logging:
+      level:
+        cn.itcast : debug
+spring:
+    datasource:
+      driver-class-name: com.mysql.jdbc.Driver
+      url: jdbc:mysql://47.99.125.129:3306/heimashop_32
+      username: root
+      password: Root2019..
+mybatis:
+  type-aliases-package: cn.itcats.pojo
+
+  # mapper-locations: mapper/*.xml

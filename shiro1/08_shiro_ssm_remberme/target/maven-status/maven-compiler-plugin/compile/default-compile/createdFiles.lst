@@ -1,0 +1,17 @@
+com\yu\service\impl\UserServiceImpl.class
+com\yu\service\UserService.class
+com\yu\domain\User.class
+com\yu\listener\AppListener.class
+com\yu\mapper\PermissionMapper.class
+com\yu\controller\LoginController.class
+com\yu\service\PermissionService.class
+com\yu\service\impl\RoleServiceImpl.class
+com\yu\controller\UserController.class
+com\yu\realm\UserRealm.class
+com\yu\mapper\RoleMapper.class
+com\yu\mapper\UserMapper.class
+com\yu\utils\ActiveUser.class
+com\yu\domain\Permission.class
+com\yu\service\impl\PermissionServiceImpl.class
+com\yu\service\RoleService.class
+com\yu\domain\Role.class

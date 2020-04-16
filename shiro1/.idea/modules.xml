@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01_shiro_ini/01_shiro_ini.iml" filepath="$PROJECT_DIR$/01_shiro_ini/01_shiro_ini.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_springboot_hello/01_springboot_hello.iml" filepath="$PROJECT_DIR$/01_springboot_hello/01_springboot_hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_shiro_realm/03_shiro_realm.iml" filepath="$PROJECT_DIR$/03_shiro_realm/03_shiro_realm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_shiro_hash/05_shiro_hash.iml" filepath="$PROJECT_DIR$/05_shiro_hash/05_shiro_hash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_shiro_ssm/06_shiro_ssm.iml" filepath="$PROJECT_DIR$/06_shiro_ssm/06_shiro_ssm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_shiro_ssm_test/07_shiro_ssm_test.iml" filepath="$PROJECT_DIR$/07_shiro_ssm_test/07_shiro_ssm_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_shiro_ssm_remberme/08_shiro_ssm_remberme.iml" filepath="$PROJECT_DIR$/08_shiro_ssm_remberme/08_shiro_ssm_remberme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09_shiro_ssm_ajax/09_shiro_ssm_ajax.iml" filepath="$PROJECT_DIR$/09_shiro_ssm_ajax/09_shiro_ssm_ajax.iml" />
+    </modules>
+  </component>
+</project>

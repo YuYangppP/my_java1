@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="09_shiro_ssm_ajax" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="01_shiro_ini" target="1.5" />
+      <module name="01_springboot_hello" target="1.8" />
+      <module name="03_shiro_realm" target="1.5" />
+      <module name="05_shiro_hash" target="1.5" />
+      <module name="06_shiro_ssm" target="1.5" />
+      <module name="07_shiro_ssm_test" target="1.8" />
+      <module name="08_shiro_ssm_remberme" target="1.5" />
+      <module name="09_shiro_ssm_ajax" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="01_springboot_hello" options="-parameters" />
+    </option>
+  </component>
+</project>

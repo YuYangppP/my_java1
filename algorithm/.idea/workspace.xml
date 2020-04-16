@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="28f20fb4-1331-431d-a7a8-149c318717e4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="G:\mavencangku352\maven_repository" />
+        <option name="mavenHome" value="G:/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="G:\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="1aAkVPhW0JaWcJ3bnC1nrB7Wy0d" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="com.intellij.jarRepository.settings.RemoteRepositoriesConfigurable" />
+  </component>
+  <component name="RunManager" selected="Application.TwoStacksQueue">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="MyStack1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.MyStack1" />
+      <module name="stackandqueue" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoStacksQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.TwoStacksQueue" />
+      <module name="stackandqueue" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="t" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.t" />
+      <module name="stackandqueue" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TwoStacksQueue" />
+        <item itemvalue="Application.MyStack1" />
+        <item itemvalue="Application.t" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28f20fb4-1331-431d-a7a8-149c318717e4" name="Default Changelist" comment="" />
+      <created>1586185809480</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586185809480</updated>
+      <workItem from="1586185813709" duration="122000" />
+      <workItem from="1586339349422" duration="3221000" />
+      <workItem from="1586414822164" duration="4396000" />
+      <workItem from="1586872654788" duration="63000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="73" key="#Project_Structure" timestamp="1586185871448">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="73" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1586185871448" />
+    <state x="574" y="131" key="#com.intellij.ide.util.MemberChooser" timestamp="1586414891278">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="131" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1586414891278" />
+    <state width="1495" height="262" key="GridCell.Tab.0.bottom" timestamp="1586420419216">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1495" height="262" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586420419216" />
+    <state width="1495" height="262" key="GridCell.Tab.0.center" timestamp="1586420419216">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1495" height="262" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586420419216" />
+    <state width="1495" height="262" key="GridCell.Tab.0.left" timestamp="1586420419216">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1495" height="262" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586420419216" />
+    <state width="1495" height="262" key="GridCell.Tab.0.right" timestamp="1586420419216">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1495" height="262" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586420419216" />
+    <state width="1495" height="262" key="GridCell.Tab.1.bottom" timestamp="1586420419216">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1495" height="262" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586420419216" />
+    <state width="1495" height="262" key="GridCell.Tab.1.center" timestamp="1586420419216">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1495" height="262" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1586420419216" />
+    <state width="1495" height="262" key="GridCell.Tab.1.left" timestamp="1586420419216">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1495" height="262" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1586420419216" />
+    <state width="1495" height="262" key="GridCell.Tab.1.right" timestamp="1586420419216">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1495" height="262" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1586420419216" />
+    <state x="307" y="58" key="SettingsEditor" timestamp="1586420416819">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="307" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586420416819" />
+    <state x="439" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1586872654861">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="439" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586872654861" />
+    <state x="3" y="36" key="new project wizard" timestamp="1586185865527">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="3" y="36" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1586185865527" />
+  </component>
+</project>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://H:/书店/02阶段_马士兵_JavaSE实战项目04_在线聊天(基于GUI)/source/Chat1.3/Chat1.3.iml" filepath="H:/书店/02阶段_马士兵_JavaSE实战项目04_在线聊天(基于GUI)/source/Chat1.3/Chat1.3.iml" />
+      <module fileurl="file://H:/书店/Chatroom/Chatroom.iml" filepath="H:/书店/Chatroom/Chatroom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/store.iml" filepath="$PROJECT_DIR$/store.iml" />
+      <module fileurl="file://H:/书店/websocket/websocket.iml" filepath="H:/书店/websocket/websocket.iml" />
+    </modules>
+  </component>
+</project>

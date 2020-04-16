@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.yu.mapper.RoleMapper">
+  <resultMap id="BaseResultMap" type="com.yu.domain.Role">
+    <!--@mbg.generated-->
+    <!--@Table `role`-->
+    <id column="roleid" jdbcType="INTEGER" property="roleid" />
+    <result column="rolename" jdbcType="VARCHAR" property="rolename" />
+  </resultMap>
+  <sql id="Base_Column_List">
+    <!--@mbg.generated-->
+    roleid, rolename
+  </sql>
+  <select id="selectByPrimaryKey" parameterType="java.lang.Integer" resultMap="BaseResultMap">
+    <!--@mbg.generated-->
+    select 
+    <include refid="Base_Column_List" />
+    from `role`
+    where roleid = #{roleid,jdbcType=INTEGER}
+  </select>
+  <delete id="deleteByPrimaryKey" parameterType="java.lang.Integer">
+    <!--@mbg.generated-->
+    delete from `role`
+    where roleid = #{roleid,jdbcType=INTEGER}
+  </delete>
+  <insert id="insert" keyColumn="roleid" keyProperty="roleid" parameterType="com.yu.domain.Role" useGeneratedKeys="true">
+    <!--@mbg.generated-->
+    insert into `role` (rolename)
+    values (#{rolename,jdbcType=VARCHAR})
+  </insert>
+  <insert id="insertSelective" keyColumn="roleid" keyProperty="roleid" parameterType="com.yu.domain.Role" useGeneratedKeys="true">
+    <!--@mbg.generated-->
+    insert into `role`
+    <trim prefix="(" suffix=")" suffixOverrides=",">
+      <if test="rolename != null">
+        rolename,
+      </if>
+    </trim>
+    <trim prefix="values (" suffix=")" suffixOverrides=",">
+      <if test="rolename != null">
+        #{rolename,jdbcType=VARCHAR},
+      </if>
+    </trim>
+  </insert>
+  <update id="updateByPrimaryKeySelective" parameterType="com.yu.domain.Role">
+    <!--@mbg.generated-->
+    update `role`
+    <set>
+      <if test="rolename != null">
+        rolename = #{rolename,jdbcType=VARCHAR},
+      </if>
+    </set>
+    where roleid = #{roleid,jdbcType=INTEGER}
+  </update>
+  <update id="updateByPrimaryKey" parameterType="com.yu.domain.Role">
+    <!--@mbg.generated-->
+    update `role`
+    set rolename = #{rolename,jdbcType=VARCHAR}
+    where roleid = #{roleid,jdbcType=INTEGER}
+  </update>
+
+  <!--根据用户Id查询用户拥有的角色-->
+  <select id="queryRolesByUserId"  resultMap="BaseResultMap">
+    select t1.* from role t1 inner join user_role t2 on(t1.roleid=t2.roleid)
+    where t2.userid=#{userid}
+  </select>
+</mapper>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="11_springboot_swagger2" />
+        <module name="15_springboot_gen" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="02_springboot_config1" target="1.8" />
+      <module name="03_springboot_config2" target="1.8" />
+      <module name="04_springboot_config3" target="1.8" />
+      <module name="05_springboot_staticresources" target="1.8" />
+      <module name="06_springboot_thymeleaf" target="1.8" />
+      <module name="08_springboot_tomcat" target="1.8" />
+      <module name="09_springboot_datasource" target="1.8" />
+      <module name="10_springboot_druid_jdbctemplate" target="1.8" />
+      <module name="11_springboot_mybatis" target="1.8" />
+      <module name="11_springboot_swagger2" target="1.8" />
+      <module name="13_springboot_shiro1" target="1.8" />
+      <module name="15_springboot_gen" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="02_springboot_config1" options="-parameters" />
+      <module name="03_springboot_config2" options="-parameters" />
+      <module name="04_springboot_config3" options="-parameters" />
+      <module name="05_springboot_staticresources" options="-parameters" />
+      <module name="06_springboot_thymeleaf" options="-parameters" />
+      <module name="08_springboot_tomcat" options="-parameters" />
+      <module name="09_springboot_datasource" options="-parameters" />
+      <module name="10_springboot_druid_jdbctemplate" options="-parameters" />
+      <module name="11_springboot_mybatis" options="-parameters" />
+      <module name="11_springboot_swagger2" options="-parameters" />
+      <module name="13_springboot_shiro1" options="-parameters" />
+      <module name="15_springboot_gen" options="-parameters" />
+    </option>
+  </component>
+</project>

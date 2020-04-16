@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="2.5" 
+	xmlns="http://java.sun.com/xml/ns/javaee" 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee 
+	http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">
+	
+  <servlet>
+    <servlet-name>a1</servlet-name>
+    <servlet-class>com.china.zhuce.servlet.ZhuceServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>LoginServlet</servlet-name>
+    <servlet-class>com.china.ren.servlet.LoginServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>CunServlet</servlet-name>
+    <servlet-class>com.china.ren.servlet.CunServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>CunKuanTu</servlet-name>
+    <servlet-class>com.china.ren.servlet.CunKuanTuServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>CunKuanCiShuServlet</servlet-name>
+    <servlet-class>com.china.ren.servlet.CunKuanCiShuServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>JiluServelt</servlet-name>
+    <servlet-class>com.china.ren.servlet.JiluServelt</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>DeleteJiLuServlet</servlet-name>
+    <servlet-class>com.china.ren.servlet.DeleteJiLuServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>UpdateJiLuServelt</servlet-name>
+    <servlet-class>com.china.ren.servlet.UpdateJiLuServelt</servlet-class>
+  </servlet>
+
+
+
+
+
+
+
+
+  <servlet-mapping>
+    <servlet-name>a1</servlet-name>
+    <url-pattern>/ZhuceServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>LoginServlet</servlet-name>
+    <url-pattern>/LoginServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>CunServlet</servlet-name>
+    <url-pattern>/CunServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>CunKuanTu</servlet-name>
+    <url-pattern>/CunKuanTu</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>CunKuanCiShuServlet</servlet-name>
+    <url-pattern>/CunKuanCiShuServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>JiluServelt</servlet-name>
+    <url-pattern>/JiluServelt</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>DeleteJiLuServlet</servlet-name>
+    <url-pattern>/DeleteJiLuServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>UpdateJiLuServelt</servlet-name>
+    <url-pattern>/UpdateJiLuServelt</url-pattern>
+  </servlet-mapping>
+  
+  
+  <welcome-file-list>
+    <welcome-file>login.jsp</welcome-file>
+  </welcome-file-list>
+  
+  
+  
+</web-app>

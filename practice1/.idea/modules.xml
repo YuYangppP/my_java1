@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java8/java8.iml" filepath="$PROJECT_DIR$/java8/java8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javabingfa/javabingfa.iml" filepath="$PROJECT_DIR$/javabingfa/javabingfa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice1.iml" filepath="$PROJECT_DIR$/practice1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shejimoshi/shejimoshi.iml" filepath="$PROJECT_DIR$/shejimoshi/shejimoshi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shixun/shixun1.iml" filepath="$PROJECT_DIR$/shixun/shixun1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test1/test1.iml" filepath="$PROJECT_DIR$/test1/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wenjian/wenjian.iml" filepath="$PROJECT_DIR$/wenjian/wenjian.iml" />
+    </modules>
+  </component>
+</project>

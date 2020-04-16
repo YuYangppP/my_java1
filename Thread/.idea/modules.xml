@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://F:/laoshideEclipse/heimashop/HeimaShop.iml" filepath="F:/laoshideEclipse/heimashop/HeimaShop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread.iml" filepath="$PROJECT_DIR$/Thread.iml" />
+      <module fileurl="file://F:/黑马/源码笔记/01.参考资料/05.完整工程/boot-crm/boot-crm.iml" filepath="F:/黑马/源码笔记/01.参考资料/05.完整工程/boot-crm/boot-crm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>
